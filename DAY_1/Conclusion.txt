@@ -1,0 +1,7 @@
+Done with Strategy Pattern 
+
+->OCP, Obeys All SOLID Principles
+
+-> Used in :-
+	->Parking Lot
+	->Food Delivery
