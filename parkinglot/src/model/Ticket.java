@@ -27,7 +27,6 @@ public class Ticket {
     public Slot getSlot() {
         return slot;
     }
-
     public LocalDateTime getEntryTime() {
         return entryTime;
     }
